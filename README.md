@@ -10,4 +10,4 @@ Anything I can about JavaScript and PHP.
 Nothing I can think of. 
 - 📫 How to reach me ...
 
-Contact me on WhatsApp,Signal, or by text message at <a href="https://wa.me/+15195899829">(519) 589 9829</a> or by email at darryl9829@gmail.com. 
+Contact me by email at darryl9829@gmail.com. 
